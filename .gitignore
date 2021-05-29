@@ -3,8 +3,9 @@
 /ist_652/asynchronous
 /ist_652/synchronous
 
-# Docx
+# Docx and PPTX
 *.docx
+*.pptx
 
 # vscode
 .vscode/*
